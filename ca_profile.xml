@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>
+**Ferret** is a self-hosted home inventory: find anything you own. This repository holds its Unraid template.
+
+Ferret itself is at [ferret-project/ferret](https://github.com/ferret-project/ferret) (MIT). For help, open an issue there or ask on Discord; the full help is built into Ferret at /docs.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/ferret-project/ferret/main/apps/web/public/icon-512.png</Icon>
+  <WebPage>https://github.com/ferret-project/ferret</WebPage>
+  <Discord>https://discord.gg/XSkKyP2pdg</Discord>
+  <Video>https://youtu.be/WJ2gzughRoo</Video>
+</CommunityApplications>
